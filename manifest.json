@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "DriverSetu",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "driver-connect--bangarp2003.replit",
+  "start_url": "https://driver-connect--bangarp2003.replit.app/",
+  "theme_color": "#ffffff"
+}
